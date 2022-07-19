@@ -13,6 +13,8 @@ function destructivelyAppendCat(name){
 }
 destructivelyAppendCat("Ralph");
 
+
+
 //Destructive Prepend
 beforeEach(function () {
   cats.length = 0;
